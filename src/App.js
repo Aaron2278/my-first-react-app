@@ -7,7 +7,7 @@ function App() {
     <div>
       <Header title="Welcome to my first react app!"/>
       <Counter/>
-    </div>
+    </div> 
   );
 }
 

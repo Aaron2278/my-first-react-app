@@ -5,7 +5,7 @@ import Counter from './Components/Counter';
 function App() {
   return ( 
     <div>
-      <Header title="Welcome to my first react app"/>
+      <Header title="Welcome to my first react app!"/>
       <Counter/>
     </div>
   );

@@ -6,7 +6,7 @@ function App() {
   return ( 
     <div>
       <Header title="Welcome to my first react app!"/>
-      <Counter/>
+      <Counter/> 
     </div> 
   );
 }
